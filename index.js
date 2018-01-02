@@ -16,7 +16,6 @@ function divide(a, b){
   return a/b
 }
 
-var n = 100
 function inc(n){
-  return n += 5
+  return a += 5
 }

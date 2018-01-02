@@ -16,3 +16,9 @@ function multiply(a, b){
 function divide(a, b){
   return a/b
 }
+
+var n = 100
+
+function inc(n){
+  
+}

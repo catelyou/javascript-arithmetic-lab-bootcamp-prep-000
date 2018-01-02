@@ -1,3 +1,1 @@
-function add(){
-  return 1000 + 92
-}
+1 + 80

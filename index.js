@@ -9,4 +9,6 @@ function subtract(a, b){
   return b - a
 }
 
-function 
+function multiply(a, b){
+  return a * b
+}

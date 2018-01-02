@@ -17,5 +17,6 @@ function divide(a, b){
 }
 
 function inc(n){
-  return a += 5
+  var n = 100
+  n += 5
 }
